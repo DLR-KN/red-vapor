@@ -10,7 +10,9 @@ This dataset contains timeseries and voxelmap reconstructions of the response of
 This plume was systematically scanned in a dense 3D grid pattern, complemented by additional sampling trajectories.  
 The dataset allows direct comparison between low-cost metal oxide semiconductor gas sensors (MiCS-5524, MiCS-6814) and advanced photoionization detectors (PID-AH2), examining both their static and dynamic responses to the plume. 
 Additionally, the industrial-like model landscape utilized enables the evaluation of gas dispersion models in complex settings under controlled wind conditions.
-Finally, the data support the comparison and evaluation of novel sampling strategies for mobile robotic sensor systems for gas distribution mapping and source localization, providing more realistic experimental data compared to computational fluid dynamics simulations.
+The data support the comparison and evaluation of novel sampling strategies for mobile robotic sensor systems for gas distribution mapping and source localization, providing more realistic experimental data compared to computational fluid dynamics simulations.
+Meeting the need for objective comparability of approaches in robotic gas sensing, this experimental dataset can serve as a standard corpus and benchmark.
+
 The experiments have been conducted in March 2023 in the DNW Low-Speed Tunnel (DNW LST, Marknesse, NL).
 
 
@@ -58,7 +60,7 @@ To execute the full preprocessing chain, run the individual `.py` scripts in seq
 If you find this software or the dataset useful in an academic context, please consider citing us!  
 A journal paper describing the dataset is currently in the review process. In the meantime, please cite the dataset directly:
 ```
-@dataset{RedVapor,
+@dataset{RedVaporDataset,
   author       = {Hinsen, Patrick and
                   Wiedemann, Thomas and
                   Shutin, Dmitriy and
