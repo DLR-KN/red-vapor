@@ -52,7 +52,7 @@ if __name__ == "__main__":
     target_folder = DATASET_OUTPUT_PATH
 
     zenodo_file_urls = [
-        "https://zenodo.org/records/16414473/files/README.pdf",
+        "https://zenodo.org/records/16414473/files/csv_header_specification.pdf",
         "https://zenodo.org/records/16414473/files/overview_table.csv",
         "https://zenodo.org/records/16414473/files/data_records_csv.zip",
         "https://zenodo.org/records/16414473/files/experiments.pkl",
