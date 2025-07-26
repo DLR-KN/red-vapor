@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  Rasterized Experimental Data: Vapor Advection Plumes for
+  Open Research
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patrick
+    family-names: Hinsen
+    orcid: 'https://orcid.org/0000-0002-4561-9769'
+    affiliation: >-
+      Deutsches Zentrum für Luft- und Raumfahrt / German
+      Aerospace Center (DLR)
+  - given-names: Thomas
+    family-names: Wiedemann
+    orcid: 'https://orcid.org/0000-0002-1740-8841'
+  - affiliation: >-
+      Deutsches Zentrum für Luft- und Raumfahrt / German
+      Aerospace Center (DLR), Technical University Munich
+      (TUM)
+  - given-names: Dmitriy
+    family-names: Shutin
+    orcid: 'https://orcid.org/0000-0002-6065-6453'
+    affiliation: >-
+      Deutsches Zentrum für Luft- und Raumfahrt / German
+      Aerospace Center (DLR)
+  - given-names: Achim J.
+    family-names: Lilienthal
+    orcid: 'https://orcid.org/0000-0003-0217-9326'
+    affiliation: Technical University Munich (TUM)
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16414472
