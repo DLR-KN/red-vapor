@@ -16,7 +16,7 @@ The experiments have been conducted in March 2023 in the DNW Low-Speed Tunnel (D
 
 ### Have a look at the interactive examples!  
 
-| Jupyter Notebook Name          | Open via nbviewer                                                                                                                                                                             |
+| Jupyter Notebook Name          | View online                                                                                                                                                                                   |
 |:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `notebooks/timeseries.ipynb`   | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/master/notebooks/timeseries.ipynb)   |
 | `notebooks/spatial_data.ipynb` | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/master/notebooks/spatial_data.ipynb) |
@@ -52,8 +52,10 @@ The scripts expect the dataset be placed and fully unzipped at `./dataset`. You 
 A good starting point are the interactive notebooks `timeseries.ipynb` and `spatial_data.ipynb`, 
 as well as the notebook for exploring the entire set of timeseries, `all_timeseries.ipynb`.
 
+To execute the full preprocessing chain, run the individual `.py` scripts in sequence, starting with `p00_*.py`. 
+
 ## Citing the Software or the Dataset
-If you find this software useful in an academic context, please consider citing us!  
+If you find this software or the dataset useful in an academic context, please consider citing us!  
 A journal paper describing the dataset is currently in the review process. In the meantime, please cite the dataset directly:
 ```
 @dataset{RedVapor,
