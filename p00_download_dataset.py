@@ -61,7 +61,8 @@ if __name__ == "__main__":
     ]
 
     for zenodo_file_url in zenodo_file_urls:
-        zip_file_path = download_from_zenodo(zenodo_file_url, target_folder)
-        unzip_file(zip_file_path, target_folder, check_already_unzipped=False)
+        file_path = download_from_zenodo(zenodo_file_url, target_folder)
+        if os.path.splitext(file_path)[1] == ".zip":
+            unzip_file(file_path, target_folder, check_already_unzipped=False)
         print()
 
