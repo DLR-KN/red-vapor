@@ -18,10 +18,10 @@ The experiments have been conducted in March 2023 in the DNW Low-Speed Tunnel (D
 
 ### Have a look at the interactive examples!  
 
-| Jupyter Notebook Name          | View online                                                                                                                                                                                   |
-|:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `notebooks/timeseries.ipynb`   | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/master/notebooks/timeseries.ipynb)   |
-| `notebooks/spatial_data.ipynb` | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/master/notebooks/spatial_data.ipynb) |
+| Jupyter Notebook Name          | View online                                                                                                                                                                                               |
+|:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `notebooks/timeseries.ipynb`   | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/with-plotly-output/notebooks/timeseries.ipynb)   |
+| `notebooks/spatial_data.ipynb` | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DLR-KN/red-vapor/blob/with-plotly-output/notebooks/spatial_data.ipynb) |
 
 
 
